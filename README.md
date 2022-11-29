@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sham Bdraldeen</h1>
-<h3 align="center">Iam a fresh graduate Software Engineer, I can develop and maintain websites and Restfull applications and deal with api..sql database..git, I can learn any technology ​​and I have always liked working with expert team to increase my information and keep up with continuous development</h3>
+<h3 align="center">Iam Software Engineer, I can develop and maintain websites and Restfull applications and deal with api..sql database..git, I can learn any technology ​​and I have always liked working with expert team to increase my information and keep up with continuous development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shambdraldeen&label=Profile%20views&color=0e75b6&style=flat" alt="shambdraldeen" /> </p>
 
 - 🌱 I’m currently learning **SpringBoot,Angular**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sham-bdraldeen](www.linkedin.com/in/sham-bdraldeen)
+- 👨‍💻 LinkedIn Profile [www.linkedin.com/in/sham-bdraldeen](www.linkedin.com/in/sham-bdraldeen)
 
-- 💬 Ask me about **Python, PHP, Angular**
+- 💬 Ask me about **Java, Python, PHP, Angular**
 
 - 📫 How to reach me **shambdraldeen@gmail.com**
 
