@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sham Bdraldeen</h1>
-<h3 align="center">Iam Software Engineer, I can develop, maintain websites, Restfull applications and deal with api..sql database..git, I can learn any technology ​​I have always liked working with expert team to increase my information..keep up with continuous development</h3>
+<h3 align="center">I am Software Engineer, I can develop, maintain websites, Restfull applications and deal with api..sql database..git, I can learn any technology ​​I have always liked working with expert team to increase my information..keep up with continuous development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shambdraldeen&label=Profile%20views&color=0e75b6&style=flat" alt="shambdraldeen" /> </p>
 
